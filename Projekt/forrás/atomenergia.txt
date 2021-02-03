@@ -1,0 +1,73 @@
+        Bevezetés
+
+Az atomenergia az atomenergiát kibocsátó nukleáris reakciók használata hőtermelés céljából, amelyet ezután leggyakrabban gőzturbinákban használnak az atomerőmű villamosenergia-termelésére.
+Az atomenergiát maghasadással, bomlással és fúziós reakciókkal lehet előállítani.
+Jelenleg az atomenergiából származó villamos energia túlnyomó részét urán és plutónium maghasadásával állítják elő.
+A nukleáris bomlási folyamatokat olyan réstechnikai alkalmazásokban használják, mint például a radioizotóp termoelektromos generátorok egyes űrszondákban, például a Voyager 2-ben.
+
+Az atomenergia 2586 terawattóra (TWh) villamos energiát szolgáltatott 2019-ben, ami a globális villamosenergia-termelés mintegy 10% -ának felel meg, és a második legnagyobb alacsony szén-dioxid-kibocsátású áramforrás volt a vízenergia után.
+2020 decemberéig 441 hasadási reaktor van a világon, az összesített elektromos kapacitás 392 gigawatt (GW). Emellett 54 atomerőművet terveznek és 98 reaktort terveznek, ezek együttes teljesítménye 60, illetve 103 GW.
+Az Egyesült Államok rendelkezik a legnagyobb atomreaktor-flottával, amely évente több mint 800 TWh kibocsátás nélküli villamos energiát termel, átlagosan 92% -os kapacitási tényezővel.
+A legtöbb jelenleg épülő reaktor III. Generációs reaktor Ázsiában.
+
+        Eredete, az első reaktor és az atombomba
+
+1932-ben Ernest Rutherford fizikus felfedezte, hogy amikor a lítium atomokat egy protongyorsító protonjai "hasították", hatalmas mennyiségű energia szabadult fel a tömeg-energia ekvivalencia elvének megfelelően.
+Ő és más atomfizikai úttörők, Niels Bohr és Albert Einstein azonban úgy vélték, hogy az atom energiájának gyakorlati felhasználása a közeljövőben bármikor nem valószínű.
+
+1938-ban Otto Hahn és Fritz Strassmann német kémikusok, Lise Meitner osztrák fizikus és Meitner unokaöccse, Otto Robert Frisch mellett kísérleteket végeztek a neutronok által bombázott urán termékeivel, Fermi állításainak további vizsgálatának eszközeként.
+Megállapították, hogy a viszonylag apró neutron a masszív uránatomok magját két nagyjából egyenlő részre osztotta, ellentmondva a Ferminek.
+Ez rendkívül meglepő eredmény volt; a nukleáris bomlás minden más formája csak kicsi változásokat eredményezett a mag tömegében, míg ez a folyamat - amelyet a hasadásnak neveztek a biológia hivatkozásaként - a mag teljes repedésével járt.
+Számos tudós, köztük Leó Szilárd, aki az elsők között volt, felismerte, hogy ha a hasadási reakciók további neutronokat szabadítanak fel, akkor önfenntartó atomláncreakció alakulhat ki.
+Miután ezt Frédéric Joliot-Curie 1939-ben kísérletileg megerősítette és bejelentette, számos ország (köztük az Egyesült Államok, az Egyesült Királyság, Franciaország, Németország és a Szovjetunió) tudósai kérvényezték kormányaikat, hogy támogassák az atomhasadásos kutatásokat.
+
+Az Egyesült Államokban, ahová Fermi és Szilárd egyaránt kivándorolt, a nukleáris láncreakció felfedezése az első ember által létrehozott reaktor, a Chicago Pile-1 néven ismert kutatóreaktor létrehozásához vezetett, amely 1942. december 2-án kritikát ért el.
+A reaktor fejlesztése a manhattani projekt része volt, a szövetségesek arra törekedtek, hogy atombombákat hozzanak létre a második világháború alatt. Nagyobb egycélú termelési reaktorok, például az X-10 cölöpök építéséhez vezetett, az első nukleáris fegyverekben felhasználható, fegyverminőségű plutónium előállításához.
+Az Egyesült Államok 1945 júliusában tesztelte az első atomfegyvert, a Szentháromság-tesztet, Hirosima és Nagaszaki atombombázásával egy hónappal később.
+
+Az első szervezet, amely az atomenergiát fejlesztette, az amerikai haditengerészet volt, az S1W reaktorral tengeralattjárók és repülőgép-hordozók meghajtására.
+Az első nukleáris hajtású tengeralattjárót, az USS Nautilus-t 1954 januárjában vezették tengerbe.
+A polgári reaktor tervezésének pályáját nagymértékben befolyásolta Hyman G. Rickover admirális, aki Weinberggel mint szoros tanácsadóval a PWR / nyomástartó víz reaktor tervét választotta 10 MW-os reaktor formájában a Nautilus számára.
+A PWR-ben kormányzati elkötelezettséget vállalt a fejlesztésre, olyan mérnöki vezetést, amely az elkövetkező években tartós hatást eredményezne a villamosenergia-piacon.
+
+1954. június 27-én a Szovjetunió Obninszki Atomerőműje, amely az RBMK reaktortervének prototípusává válik, a világ első olyan atomerőműve lett, amely villamos energiát termelt egy elektromos hálózat számára, mintegy 5 megawatt villamos energiát termelve.
+
+        Nukleáris Reneszánsz?
+
+Világszerte az 1980-as években átlagosan 17 naponként beindult egy új atomreaktor.
+
+A 2000-es évek elején a nukleáris ipar a nukleáris reneszánszra, az új reaktorok építésének növekedésére számított a szén-dioxid-kibocsátással kapcsolatos aggodalmak miatt.
+Petteri Tiippana, a STUK atomerőmű-részlegének igazgatója 2009-ben azonban a BBC-nek elmondta, hogy nehéz ütemterv szerint megvalósítani a III. Generációs reaktor projektjét, mert az építők nem voltak hozzászokva, hogy a nukleáris építkezéseken előírt szigorú előírásoknak megfelelően dolgozzanak, mivel az elmúlt években olyan kevés új reaktor épült.
+
+2018-ban a MIT Energy Initiative tanulmánya az atomenergia jövőjéről arra a következtetésre jutott, hogy azzal a határozott javaslattal együtt, hogy a kormánynak pénzügyi támogatással kell támogatnia az új, IV. Generációs nukleáris technológiák fejlesztését és bemutatását, a világméretű reneszánsz megkezdéséhez a szabályozás globális szabványosítására van szükség.
+A szabványosított egységek sorozatgyártása a repülőgépek és a repülés másik komplex mérnöki területéhez hasonlóan.
+Jelenleg minden országnál szokás, hogy egyedi terveket változtatnak meg a különböző nemzeti szabályozó szervek kielégítése érdekében, gyakran a hazai mérnöki ellátó cégek javára.
+A jelentés kitér arra, hogy a legköltséghatékonyabb projektek telephelyenként több (legfeljebb hat) reaktorral épültek, szabványosított tervezéssel, ugyanazon alkatrész-beszállítókkal és az egyes egységeken dolgozó építőszemélyzettel, folyamatos munkafolyamatban.
+
+        A jövő
+
+    Fejlett hasadási reaktorok
+
+A világszerte jelenleg működő hasadóreaktorok második vagy harmadik generációs rendszerek, az első generációs rendszerek többségét már kivonták.
+A fejlett IV generációs reaktortípusok kutatását hivatalosan a IV. Generációs Nemzetközi Fórum (GIF) kezdte meg, nyolc technológiai cél alapján, többek között a közgazdaságtan, a biztonság, az elterjedési ellenállás, a természeti erőforrások hasznosításának javítása és a meglévő nukleáris hulladék felhasználásának képessége érdekében elektromosság.
+Ezen reaktorok többsége jelentősen különbözik a jelenleg működő könnyűvizes reaktoroktól, és várhatóan 2030 után is kereskedelmi építésre lesznek elérhetők.
+
+    Hibrid magfúzió-hasadás
+
+A hibrid atomerőmű az áramtermelés javasolt módja a fúziós és a maghasadásos folyamatok kombinációjának felhasználásával.
+A koncepció az 1950-es évekre nyúlik vissza, és az 1970-es években Hans Bethe röviden támogatta, de a tiszta fúzió megvalósításának késedelme miatt a 2009-es érdeklődés újjáéledéséig nagyrészt felderítetlen maradt.
+Fenntartott atomerõs fûtõerõmû építésénél megvan a lehetõsége arra, hogy képes legyen kinyerni az összes hasadó energiát, amely a kiégett hasadási fûtõanyagban marad, nagyságrendekkel csökkenti a nukleáris hulladék mennyiségét, és ami még ennél is fontosabb, hogy az összes aktinidet eltávolítja a kiégett fűtőelem, biztonsági aggályokat okozó anyagok.
+
+    Nukleáris fúzió
+    
+A magfúziós reakciók biztonságosabbak és kevesebb radioaktív hulladékot eredményezhetnek, mint a hasadás.
+Ezek a reakciók potenciálisan életképesnek tűnnek, bár technikailag meglehetősen bonyolultak, és még nem jöttek létre olyan méretben, amelyet egy funkcionális erőműben lehetne használni. A fúziós energia elméleti és kísérleti vizsgálata az 1950-es évek óta zajlik.
+
+Számos kísérleti magfúziós reaktor és létesítmény létezik. A jelenleg folyamatban lévő legnagyobb és legambiciózusabb nemzetközi nukleáris fúziós projekt az ITER, egy nagy tokamak, amelyet Franciaországban építenek.
+Az ITER a tervek szerint megnyitja az utat a kereskedelmi fúziós energia számára azáltal, hogy demonstrálja az önfenntartó magfúziós reakciókat pozitív energianyereséggel.
+Az ITER létesítményének építése 2007-ben kezdődött, de a projekt sok késéssel és költségvetési túllépéssel jár. A létesítmény most várhatóan csak 2027–11-ben kezdi meg működését az eredetileg várt időpont után. Javasolták a kereskedelmi fúziós erőmű, a DEMO nyomon követését.
+Vannak javaslatok egy másik fúziós megközelítésen alapuló erőműre is, egy inerciális fúziós erőműre.
+
+A fúziós meghajtású villamosenergia-termelést eredetileg úgy gondolták, hogy könnyen megvalósítható, mint a hasadó-villamos energia volt.
+A folyamatos reakciók és a plazma befogadásának rendkívüli követelményei azonban azt eredményezték, hogy az előrejelzéseket több évtizeddel meghosszabbították.
+2010-ben, több mint 60 évvel az első próbálkozások után, a kereskedelmi áramtermelést 2050 előtt még valószínűtlennek tartották.
