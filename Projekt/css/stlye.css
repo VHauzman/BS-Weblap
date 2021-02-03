@@ -1,9 +1,37 @@
+*{
+    font-family: Verdana, Tahoma, sans-serif;
+    color: white;
+}
+
+.navBarColor{
+    color: white;
+}
+
 .dropdownColor{
     background-color: #e35d6a;
 }
 .CarouselCSS{
     height: 500px;
-    width: 1200px; 
+    width: 1000px; 
     margin: auto;
     margin-top: 15px;
+    margin-bottom: 250px;
+}
+.CarouselIMG{    
+    border-radius: 25px;
+}
+.indexH1{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+.indexText{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.indexTextDiv{
+    background-color: #e35d6a;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
