@@ -14,10 +14,12 @@
     height: 500px;
     width: 1000px; 
     margin: auto;
-    margin-top: 15px;
-    margin-bottom: 250px;
+    margin-top: 30px;
 }
 .CarouselIMG{    
+    border-radius: 25px;
+}
+.indexBorder{
     border-radius: 25px;
 }
 .indexH1{
@@ -34,4 +36,6 @@
     background-color: #e35d6a;
     padding-top: 15px;
     padding-bottom: 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
 }
