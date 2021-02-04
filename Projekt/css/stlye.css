@@ -3,6 +3,13 @@
     color: white;
 }
 
+a{
+    color: white;
+}
+a:hover{
+    color: blue;
+    text-decoration: none;
+}
 .navBarColor{
     color: white;
 }
