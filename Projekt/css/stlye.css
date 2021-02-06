@@ -1,4 +1,4 @@
-*{
+*:not(option){
     font-family: Verdana, Tahoma, sans-serif;
     color: white;
     text-align: justify;
@@ -49,13 +49,12 @@ a:hover{
     margin-bottom: 15px;
 }
 .videoDiv{
-    background-color: #e35d6a;
     margin-top: 30px;
     margin-bottom: 15px;
     width: 600px;
     height: 400px;
 }
-.kozeprVideo{
+.kozepre{
     width: 560px;
     height: 315px;
     position: absolute;
@@ -65,4 +64,14 @@ a:hover{
 }
 .kozepreSzoveg{
     text-align: center;
+}
+.buttonCSS{
+    border: #dc3545;
+    background-color: #dc3545;
+}
+.infoColorDiv{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
 }
